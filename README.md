@@ -1,0 +1,1 @@
+This is essentially a website for people to get access to braiders in their local areas information.
